@@ -8,13 +8,14 @@ O objetivo deste é entender como o desenvolvedor pensa em uma aplicação, tend
 
 * Organize o melhor possivel seus arquivos dentro do projeto;
 * Ser fiel aos layouts disponibilizados;
-* O suporte crossbrowser a IE9+, Chrome e Firefox;
+* Os icones para serem utilizados na tela estão dentro da pasta icons
+* O suporte crossbrowser a Chrome, Firefox e Safari;
 
 
 ## Consideramos como diferencial:
 * Utilização de uma linguagem de preprocessador Sass;
-* Utilização de bibliotecas CSS Bootstrap se optar por desenvolver utilizando React use Reactstrap;
-* Desenvolva seu App utilizando algum framework MV* de mercado porem um diferencial seria a utilização de REACT;
+* Utilização de bibliotecas CSS Bootstrap se optar por desenvolver utilizando React utilize Reactstrap;
+* Desenvolva seu App utilizando algum framework MV* de mercado porem um diferencial seria a utilização de React;
 
 
 ## Entrega:
