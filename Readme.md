@@ -14,8 +14,8 @@ O objetivo deste é entender como o desenvolvedor pensa em uma aplicação, tend
 
 ## Consideramos como diferencial:
 * Utilização de uma linguagem de preprocessador Sass;
-* Utilização de bibliotecas CSS Bootstrap se optar por desenvolver utilizando React utilize Reactstrap;
 * Desenvolva seu App utilizando algum framework MV* de mercado porem um diferencial seria a utilização de React;
+* Utilização de bibliotecas CSS Bootstrap se optar por desenvolver utilizando React utilize Reactstrap;
 
 
 ## Entrega:
